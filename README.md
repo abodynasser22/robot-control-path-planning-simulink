@@ -45,5 +45,5 @@ More flight plots, including a tilted circle with and without `mstraj` smoothing
 
 ## Team
 
-Lab work done as a team at Luleå University of Technology, including Abdalrahman Nasser and
-Dominic Addo.
+Lab work done as a team at Luleå University of Technology by **Abdalrahman Nasser**,
+**Dominic Addo** and **Deborah Aittokallio**.
