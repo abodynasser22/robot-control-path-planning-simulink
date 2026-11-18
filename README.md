@@ -24,6 +24,17 @@ robots through ROS. Course: *Robotics* (R7010E), Luleå University of Technology
 |---|---|
 | ![A* path](lab4-mapping-path-planning/Lab4_Task3_A_star_path.png) | ![Live path](lab4-mapping-path-planning/Lab4_Task3_live_path.png) |
 
+| Crazyflie: circle flown at 1 m (motion capture) | Crazyflie: square flown with heading control |
+|---|---|
+| ![Circle](lab3-crazyflie-drone/results/circle_flown_trajectory_3d.jpg) | ![Square](lab3-crazyflie-drone/results/square_flown_trajectory_3d.jpg) |
+
+| TurtleBot wall following (real robot, lidar points in blue) | Crazyflie tracking: reference vs. measured position |
+|---|---|
+| ![Wall following](lab2-mobile-robot-control/results/wall_following_1m.png) | ![Scopes](lab3-crazyflie-drone/results/circle_tracking_scopes.png) |
+
+More flight plots, including a tilted circle with and without `mstraj` smoothing, are in
+[`lab3-crazyflie-drone/results/`](lab3-crazyflie-drone/results).
+
 ## Run it
 
 1. Open MATLAB (R2024b or newer) with Simulink, ROS Toolbox and Robotics System Toolbox.
